@@ -1,0 +1,18 @@
+{
+	"appId": "com.magniaayat.app",
+	"appName": "MagniAayat",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"Keyboard": {
+			"style": "DARK",
+			"resize": "native",
+			"resizeOnFullScreen": true
+		},
+		"StatusBar": {
+			"style": "DARK",
+			"backgroundColor": "#03040B",
+			"overlaysWebView": false
+		}
+	}
+}
